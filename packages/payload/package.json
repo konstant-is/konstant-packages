@@ -2,6 +2,11 @@
   "name": "@konstant/payload",
   "version": "1.0.0",
   "description": "Payload CMS helpers and utils",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/konstant-is/konstant-packages.git",
+    "directory": "packages/payload"
+  },
   "type": "module",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
